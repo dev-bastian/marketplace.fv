@@ -1,0 +1,12 @@
+/home/sebastian/Escritorio/marketplace.fv/Market.App/Market.App.Dominio/obj/Debug/net6.0/Market.App.Dominio.csproj.AssemblyReference.cache
+/home/sebastian/Escritorio/marketplace.fv/Market.App/Market.App.Dominio/obj/Debug/net6.0/Market.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/home/sebastian/Escritorio/marketplace.fv/Market.App/Market.App.Dominio/obj/Debug/net6.0/Market.App.Dominio.AssemblyInfoInputs.cache
+/home/sebastian/Escritorio/marketplace.fv/Market.App/Market.App.Dominio/obj/Debug/net6.0/Market.App.Dominio.AssemblyInfo.cs
+/home/sebastian/Escritorio/marketplace.fv/Market.App/Market.App.Dominio/obj/Debug/net6.0/Market.App.Dominio.csproj.CoreCompileInputs.cache
+/home/sebastian/Escritorio/marketplace.fv/Market.App/Market.App.Dominio/bin/Debug/net6.0/Market.App.Dominio.deps.json
+/home/sebastian/Escritorio/marketplace.fv/Market.App/Market.App.Dominio/bin/Debug/net6.0/Market.App.Dominio.dll
+/home/sebastian/Escritorio/marketplace.fv/Market.App/Market.App.Dominio/bin/Debug/net6.0/Market.App.Dominio.pdb
+/home/sebastian/Escritorio/marketplace.fv/Market.App/Market.App.Dominio/obj/Debug/net6.0/Market.App.Dominio.dll
+/home/sebastian/Escritorio/marketplace.fv/Market.App/Market.App.Dominio/obj/Debug/net6.0/refint/Market.App.Dominio.dll
+/home/sebastian/Escritorio/marketplace.fv/Market.App/Market.App.Dominio/obj/Debug/net6.0/Market.App.Dominio.pdb
+/home/sebastian/Escritorio/marketplace.fv/Market.App/Market.App.Dominio/obj/Debug/net6.0/ref/Market.App.Dominio.dll
