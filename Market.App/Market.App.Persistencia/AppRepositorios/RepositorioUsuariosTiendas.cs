@@ -64,6 +64,7 @@ namespace Market.App.Persistencia
                 System.Console.WriteLine("usuario no encontrado");
             }
             return usuariosTiendasEncontrados;
+
         }
 
     }
